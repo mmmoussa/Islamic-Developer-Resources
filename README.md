@@ -17,6 +17,8 @@ A list of all the resources one might find useful while developing Islamic softw
   * [The Quranic Arabic Corpus](http://corpus.quran.com)
 * Quranic audio and image files
   * [EveryAyah](http://www.everyayah.com/data/status.php)
+  * [Official Quranic images](http://publications-img.qurancomplex.gov.sa)
+  * [Official Quranic vector pages](http://dm.qurancomplex.gov.sa/)
   * [Quranic Audio](http://quranicaudio.com)
 * Integrations
   * [QamarDeen](http://qamardeen.com/api/)
