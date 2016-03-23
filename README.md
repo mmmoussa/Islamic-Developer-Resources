@@ -14,11 +14,13 @@ A list of all the resources one might find useful while developing Islamic softw
   * [Tanzil](http://tanzil.net/download/)
 * Quran Analysis
   * [Alfanous](https://github.com/Alfanous-team/alfanous)
+  * [Quranic Image Ayah Detection](https://github.com/quran/ayah-detection)
   * [The Quranic Arabic Corpus](http://corpus.quran.com)
 * Quranic audio and image files
   * [EveryAyah](http://www.everyayah.com/data/status.php)
   * [Official Quranic images](http://publications-img.qurancomplex.gov.sa)
   * [Official Quranic vector pages](http://dm.qurancomplex.gov.sa/)
+  * [Quran Image Generator](https://github.com/quran/quran.com-images)
   * [Quranic Audio](http://quranicaudio.com)
 * Integrations
   * [QamarDeen](http://qamardeen.com/api/)
