@@ -30,6 +30,7 @@ A list of all the resources one might find useful while developing Islamic softw
 * [Adhan (high precision prayer time library)](https://github.com/batoulapps/Adhan)
 * [Muslim Salat](http://muslimsalat.com/api/)
 * [PrayTimes](http://praytimes.org/code/)
+* [IslamHouse](http://api.islamhouse.com/en/docs/praytimes/)
 
 ## <a name="masjid-information"></a>Masjid Information
 
