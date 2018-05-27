@@ -12,7 +12,7 @@ A list of all the resources one might find useful while developing Islamic softw
 * Copies of the Quran and translations
   * [Global Quran](http://docs.globalquran.com/Main_Page)
   * [Tanzil](http://tanzil.net/download/)
-  * [AlQuran](https://alquran.cloud/api)
+  * [Al Quran](https://alquran.cloud/api)
 * Quran Analysis
   * [Alfanous](https://github.com/Alfanous-team/alfanous)
   * [Quranic Image Ayah Detection](https://github.com/quran/ayah-detection)
@@ -32,7 +32,7 @@ A list of all the resources one might find useful while developing Islamic softw
 * [IslamHouse](http://api.islamhouse.com/en/docs/praytimes/)
 * [Muslim Salat](http://muslimsalat.com/api/)
 * [PrayTimes](http://praytimes.org/code/)
-* [AlAdhan](https://aladhan.com/prayer-times-api)
+* [Al Adhan](https://aladhan.com/prayer-times-api)
 
 
 ## <a name="masjid-information"></a>Masjid Information
