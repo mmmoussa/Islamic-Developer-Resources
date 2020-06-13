@@ -33,6 +33,7 @@ A list of all the resources one might find useful while developing Islamic softw
 * [Muslim Salat](http://muslimsalat.com/api/)
 * [PrayTimes](http://praytimes.org/code/)
 * [Al Adhan](https://aladhan.com/prayer-times-api)
+* [Muwaqqit app, API & docs](https://www.muwaqqit.com/index)
 
 
 ## <a name="masjid-information"></a>Masjid Information
