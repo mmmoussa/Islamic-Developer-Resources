@@ -23,8 +23,6 @@ A list of all the resources one might find useful while developing Islamic softw
   * [Official Quranic vector pages](http://dm.qurancomplex.gov.sa/)
   * [Quran Image Generator](https://github.com/quran/quran.com-images)
   * [Quranic Audio](http://quranicaudio.com)
-* Integrations
-  * [QamarDeen](http://qamardeen.com/api/)
 
 ## <a name="prayer-times"></a>Prayer times
 
