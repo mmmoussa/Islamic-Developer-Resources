@@ -40,14 +40,14 @@ A list of all the resources one might find useful while developing Islamic softw
 ## <a name="arabic"></a>Arabic
 
 * Text manipulation
- * [Arabic betaCode](https://github.com/maximromanov/ArabicBetacode)
- * [Arabic Light Stemmer](https://github.com/linuxscout/tashaphyne)
- * [Arabic text vocalization](https://github.com/linuxscout/mishkal)
+  * [Arabic betaCode](https://github.com/maximromanov/ArabicBetacode)
+  * [Arabic Light Stemmer](https://github.com/linuxscout/tashaphyne)
+  * [Arabic text vocalization](https://github.com/linuxscout/mishkal)
 * Fonts
- * [Kitab font](https://github.com/quranacademy/kitab-font)
+  * [Kitab font](https://github.com/quranacademy/kitab-font)
 * Linguistics
- * [Aratools GPL dictionary](http://aratools.com/)
- * [Arabic grammar and style rules database](https://github.com/linuxscout/fareh)
+  * [Aratools GPL dictionary](http://aratools.com/)
+  * [Arabic grammar and style rules database](https://github.com/linuxscout/fareh)
 
 
 
