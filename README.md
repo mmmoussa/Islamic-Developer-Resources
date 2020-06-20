@@ -5,7 +5,10 @@ A list of all the resources one might find useful while developing Islamic softw
 - [Quran](#quran)
 - [Prayer times](#prayer-times)
 - [Masjid information](#masjid-information)
+- [Font and text manipulation](#font-and-text-manipulation)
 - [Arabic](#arabic)
+- [Meta](#meta)
+
 
 ## <a name="quran-and-translations"></a>Quran
 
@@ -49,6 +52,11 @@ A list of all the resources one might find useful while developing Islamic softw
   * [Aratools GPL dictionary](http://aratools.com/)
   * [Arabic grammar and style rules database](https://github.com/linuxscout/fareh)
 
+
+## <a name="meta"></a>Meta
+
+ * [Awesome-Islam resources list](https://github.com/AhmedKamal/awesome-Islam)
+ * [Deen projects discussion](https://github.com/nuqayah/deen-projects/issues)
 
 
 ## Contributing
