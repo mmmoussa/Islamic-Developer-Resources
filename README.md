@@ -6,7 +6,9 @@ A list of all the resources one might find useful while developing Islamic softw
 - [Prayer times](#prayer-times)
 - [Masjid information](#masjid-information)
 - [Font and text manipulation](#font-and-text-manipulation)
+- [Arabic](#arabic)
 - [Meta](#meta)
+
 
 ## <a name="quran-and-translations"></a>Quran
 
@@ -24,8 +26,6 @@ A list of all the resources one might find useful while developing Islamic softw
   * [Official Quranic vector pages](http://dm.qurancomplex.gov.sa/)
   * [Quran Image Generator](https://github.com/quran/quran.com-images)
   * [Quranic Audio](http://quranicaudio.com)
-* Integrations
-  * [QamarDeen](http://qamardeen.com/api/)
 
 ## <a name="prayer-times"></a>Prayer times
 
@@ -40,9 +40,18 @@ A list of all the resources one might find useful while developing Islamic softw
 
 * [RESTful Masjid API](http://ummahnet.com/developers.php?page=developers)
 
-## <a name="font-and-text-manipulation"></a>Font and Text Manipulation
+## <a name="arabic"></a>Arabic
 
-* [Arabic betaCode](https://github.com/maximromanov/ArabicBetacode)
+* Text manipulation
+  * [Arabic betaCode](https://github.com/maximromanov/ArabicBetacode)
+  * [Arabic Light Stemmer](https://github.com/linuxscout/tashaphyne)
+  * [Arabic text vocalization](https://github.com/linuxscout/mishkal)
+* Fonts
+  * [Kitab font](https://github.com/quranacademy/kitab-font)
+* Linguistics
+  * [Aratools GPL dictionary](http://aratools.com/)
+  * [Arabic grammar and style rules database](https://github.com/linuxscout/fareh)
+
 
 ## <a name="meta"></a>Meta
 
